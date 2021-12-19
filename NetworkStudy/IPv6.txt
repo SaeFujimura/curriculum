@@ -1,6 +1,6 @@
 
-(1)aaaa:aaff:feaa:aaaa
+(1)a8 aa aa ff fe aa aa aa
 
-(2)9876:54ff:fe32:10fe
+(2)9a 76 54 ff fe 32 10fe
 
-(3)ffff:ffff:feff:ffff
+(3)fd ff ff ff fe ff ff ff
